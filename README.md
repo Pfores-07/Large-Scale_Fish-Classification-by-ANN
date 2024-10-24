@@ -35,3 +35,5 @@ Proje Akışı:
 
 Sonuçlar:
 Model, test setinde kayda değer bir doğruluk elde etmiştir. Performans daha iyi hale getirmek için sınıflandırma raporları ve karışıklık matrisleri kullanılarak analiz yapılmıştır.
+
+Kaggle Proje Linki: https://www.kaggle.com/code/urasalkaya/large-scale-fish-classification-by-ann
