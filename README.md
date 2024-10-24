@@ -1,4 +1,4 @@
-# Large-Scale_Fish-Classification-by-ANN
+# Large-Scale_Fish-Classification-by-CNN
 Bu proje, farklı balık türlerini bir Konvolüsyonel Sinir Ağı (CNN) kullanarak sınıflandırmayı amaçlamaktadır. Balık görüntülerinden oluşan bir veri seti kullanılarak 9 farklı balık türünü ayırt edebilen bir model geliştirilmiştir.
 
 Proje Akışı:
